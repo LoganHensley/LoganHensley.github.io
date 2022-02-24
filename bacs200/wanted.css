@@ -6,7 +6,7 @@ border: 1px solid brown;
 */
 :root
 {
---old-western-brown: rgb(100,50,20)
+--old-western-brown: rgb(100,50,18)
 }
 body
 {
@@ -35,7 +35,7 @@ header h2
 main h1
 {
   font-size: 70pt;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Brush Script MT';
   margin: 0;
 }
 h1+h2
