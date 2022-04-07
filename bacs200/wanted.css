@@ -35,7 +35,7 @@ header h2
 main h1
 {
   font-size: 70pt;
-  font-family: 'Brush Script MT', cursive;
+  font-family: "Times New Roman", cursive;
   margin: 0;
 }
 h1+h2
